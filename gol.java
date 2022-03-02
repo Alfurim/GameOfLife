@@ -12,9 +12,6 @@ import java.util.Timer;
 
 public class gol extends JFrame
 {
-	/**
-	 * Made by the awesome Alfurim
-	 */
 	private static final long serialVersionUID = 1L;
 	final int col = 29, row = 19; //Cell by cell size of the table.
 	int gen = 0; //Iteration counter.
